@@ -1,0 +1,20 @@
+Arrhythmia datasets typically categorize arrhythmias based on specific criteria or classification systems. One commonly used dataset is the Arrhythmia dataset from the UCI Machine Learning Repository, which includes 16 different classes of arrhythmias. These classes are defined based on the diagnosis of the cardiac arrhythmia and are labeled as follows:
+
+1. Normal: Normal heartbeat without any arrhythmia.
+2. Ischemic changes (Coronary artery disease): Heartbeat patterns indicating insufficient blood supply to the heart muscle.
+3. Old Anterior Myocardial Infarction: Previous heart attack affecting the front part of the heart.
+4. Old Inferior Myocardial Infarction: Previous heart attack affecting the back part of the heart.
+5. Sinus tachycardia: Abnormally fast heart rate originating from the sinus node.
+6. Sinus bradycardia: Abnormally slow heart rate originating from the sinus node.
+7. Atrial premature contraction: Extra heartbeat originating in the atria.
+8. Ventricular premature contraction: Extra heartbeat originating in the ventricles.
+9. Left bundle branch block: Delay or blockage of electrical signals in the left bundle branch.
+10. Right bundle branch block: Delay or blockage of electrical signals in the right bundle branch.
+11. First-degree atrioventricular block: Delay in the conduction of electrical signals between the atria and ventricles.
+12. Second-degree atrioventricular block: Intermittent blockage of electrical signals between the atria and ventricles.
+13. Third-degree atrioventricular block: Complete blockage of electrical signals between the atria and ventricles.
+14. Left ventricular hypertrophy: Enlargement or thickening of the left ventricle.
+15. Atrial fibrillation or flutter: Rapid and irregular electrical impulses in the atria.
+16. Others: Miscellaneous arrhythmias not falling into the above categories.
+
+This classification scheme allows researchers and practitioners to analyze and develop algorithms to identify and classify different types of arrhythmias accurately. Other arrhythmia datasets may have their own specific classification systems, but these are some common categories found in arrhythmia datasets.
