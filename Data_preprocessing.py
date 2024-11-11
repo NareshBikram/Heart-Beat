@@ -37,7 +37,7 @@ X_test = X_test.reshape(X_test.shape[0],-1)
 y_train=train_df[187]
 y_test=test_df[187]
 
-
+#we can test different classifiers
 #svm
 '''It has score of 94% accuracy'''
 ##from sklearn.svm import SVC
